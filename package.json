@@ -1,0 +1,19 @@
+{
+  "name": "@nexthink/arm-jwt-decoder",
+  "version": "1.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nxt-fmiquel/arm-jwt-decoder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nxt-fmiquel/arm-jwt-decoder/issues"
+  },
+  "homepage": "https://github.com/nxt-fmiquel/arm-jwt-decoder#readme",
+  "description": ""
+}
